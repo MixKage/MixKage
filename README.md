@@ -1,5 +1,6 @@
 ### Привет всем 👋
 Стек технологий: C# (UWP/WPF windows app), Kotlin (android app), C++ (console app)
+
 Сайт: www.nncompany.site
 
 ### Основные проекты:
