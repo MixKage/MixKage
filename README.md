@@ -3,6 +3,8 @@
 
 Сайт: www.nncompany.site
 
+![MixKage GitHub stats](https://github-readme-stats.vercel.app/api?username=MixKage&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true)
+
 ### Основные проекты:
 1.	Работа с внешним API и создание сложной очереди потоков и процессов.
 2.	Разработка собственного мессенджера и создание установщика в обход правил.
