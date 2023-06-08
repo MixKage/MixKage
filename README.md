@@ -1,11 +1,11 @@
 ### Привет всем 👋
-Стек технологий: C# (UWP/WPF windows app), Kotlin (android app), C++ (console app)
+Стек технологий: Flutter (mobile app), C# (UWP/WPF windows app), Kotlin (android app), C++ (console app)
 
-Сайт: www.nncompany.site
+Доска выпущенных проектов: www.nncompany.site
 
 ![MixKage GitHub stats](https://github-readme-stats.vercel.app/api?username=MixKage&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true)
 
-### Основные проекты:
+### Проекты:
 1.	Работа с внешним API и создание сложной очереди потоков и процессов.
 2.	Разработка собственного мессенджера и создание установщика в обход правил.
 3.	Создание приложения под Android используя собственную графическую оболочку Siesta.
