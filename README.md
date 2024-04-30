@@ -100,7 +100,7 @@ UI интерфейс получает ссылку и почту с котор�
 
 [![group_scrap_card_logo](https://github.com/MixKage/MixKage/assets/55548743/9a182cdb-737d-4efd-b19d-ae6515939307)](https://github.com/MixKage/GroupScrap)
 
-GitHub: https://github.com/MixKage/GroupScarp
+GitHub: [https://github.com/MixKage/GroupScarp](https://github.com/MixKage/GroupScrap)
 
 For Windows: https://github.com/MixKage/GroupScrap/releases/tag/Version-1.2
 
@@ -111,7 +111,7 @@ ValMax - разработка среды моделирования информ
 * BLP
 * HRU
 
-![valmax_card_logo](https://github.com/MixKage/MixKage/assets/55548743/6b176c48-c5f4-4b0c-b757-ff09c649ed0e)
+[![valmax_card_logo](https://github.com/MixKage/MixKage/assets/55548743/6b176c48-c5f4-4b0c-b757-ff09c649ed0e)](https://apps.microsoft.com/detail/9pl6wd3z5gtd?hl=en-us&gl=US)
 
 Microsoft Store: https://apps.microsoft.com/detail/9pl6wd3z5gtd?hl=en-us&gl=US
 <!--
