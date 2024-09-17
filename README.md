@@ -2,9 +2,7 @@
 Стек технологий: Flutter/Dart, C# (UWP/WPF windows app, asp.net)
 | It's Me |  | 
 | ------- | --- |
-| ![itsme](https://github.com/MixKage/MixKage/assets/55548743/24e6e609-a86f-467a-a539-8996f2204a87) | Меня зовут Валерий, рад видеть вас на своей страничке. Веду интересный IT Telegram канал: [Одинокий Программист](https://t.me/lonelyprog). Стартую проект на YouTube. Работаю тех. дир. в ADC Studio  |
-
-
+| <img src="https://github.com/user-attachments/assets/5bb234ea-0be6-4a0c-92f5-73a71df41bd4" width="350" height="200" /> | Меня зовут Валерий, рад видеть вас на своей страничке. Веду интересный IT Telegram канал: [Одинокий Программист](https://t.me/lonelyprog). Стартую проект на YouTube. Работаю тех. дир. в ADC Studio  |
 
 <!-- Пока что стата не очень
 ![MixKage GitHub stats](https://github-readme-stats.vercel.app/api?username=MixKage&hide=prs,contribs&show_icons=true&theme=ambient_gradient&locale=ru&hide_border=true&include_all_commits=true&count_private=true\&rank_icon=github)
