@@ -48,6 +48,21 @@ decoding effect.
 [Pub.dev](https://pub.dev/packages/cipher_vault) |
 [GitHub](https://github.com/MixKage/cipher_vault)
 
+### Games
+
+- **Grid Domination** — a real-time multiplayer strategy game: capture bases on
+  a shared grid, generate and route armies, upgrade them into fortresses,
+  generators and command nodes, launch missiles, and outlast rivals in
+  simultaneous-turn matches with bots, spectator mode and knockout tournaments.
+  Available in 7 languages.
+  [Play](https://grid-domination.online)
+- **[Ruins: Secret of Death](https://t.me/Ruins_GameBot)** — a Telegram text
+  roguelike where a single run lasts until death: descend the ruins floor by
+  floor through turn-based fights, unlock hero classes with unique perks, beat
+  bosses, and climb the seasonal leaderboard.
+  [Telegram Bot](https://t.me/Ruins_GameBot) |
+  [GitHub](https://github.com/MixKage/ruins_secret_of_death)
+
 ### Projects
 
 - **Service Hotel Plus** — a social platform for hotel and dormitory residents
@@ -117,6 +132,21 @@ Flutter-виджеты с анимированной градиентной ра
 
 [Pub.dev](https://pub.dev/packages/cipher_vault) |
 [GitHub](https://github.com/MixKage/cipher_vault)
+
+### Игры
+
+- **Grid Domination** — многопользовательская стратегия в реальном времени:
+  захватывайте базы на общей сетке, копите и отправляйте армии, улучшайте базы
+  до крепостей, генераторов и командных узлов, запускайте ракеты и переигрывайте
+  соперников в матчах с одновременными ходами — с ботами, режимом зрителя и
+  турнирами на выбывание. Доступна на 7 языках.
+  [Играть](https://grid-domination.online)
+- **[Ruins: Secret of Death](https://t.me/Ruins_GameBot)** — текстовый рогалик в
+  Telegram, где один забег длится до смерти: спускайтесь по этажам руин в
+  пошаговых боях, открывайте классы героев с уникальными способностями,
+  побеждайте боссов и поднимайтесь в сезонном рейтинге.
+  [Telegram-бот](https://t.me/Ruins_GameBot) |
+  [GitHub](https://github.com/MixKage/ruins_secret_of_death)
 
 ### Проекты
 
